@@ -25,7 +25,7 @@ namespace Foster
         }
 
         /// <summary>
-        /// 
+        /// Starts a specified program as a child process of a specified process handle. 
         /// </summary>
         /// <param name="szFile">Application to run</param>
         /// <param name="szArguments">Arguments for the specified Application</param>
